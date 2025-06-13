@@ -4,7 +4,7 @@
 3. Instruction and MISC.: [[Gdrive_nghiencuuduongbo](https://drive.google.com/drive/folders/1V_Q3G7QA2Usi3KqPYQYe-7BT0d_npp6b?usp=drive_link)]  
 # **2 purposes: writing paper and interactive web-based**
 ## interactive web-based
-### 1. interactive_map 
+### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/]))
 ### Layers
 (**???** Declare some notions: **blinds, dirty, invaded_sidewalk**) 
 - blinds
