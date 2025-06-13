@@ -4,7 +4,8 @@
 3. Instruction and MISC.: [[Gdrive_nghiencuuduongbo](https://drive.google.com/drive/folders/1V_Q3G7QA2Usi3KqPYQYe-7BT0d_npp6b?usp=drive_link)]  
 # **2 purposes: writing paper and interactive web-based**
 ## interactive web-based
-### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/#19/10.78290/106.69574]))
+### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/#19/10.78290/106.69574])) 
+🚨 **Important:** !!! Needed: fix size of photos, tooltip form
 ### Layers
 (**???** Declare some notions: **blinds, dirty, invaded_sidewalk**) 
 - blinds
@@ -25,6 +26,9 @@
 6. Rating of the frequency/seriousness (optional)
 ![image](https://github.com/user-attachments/assets/53a3bdb7-d2fa-46cb-8f69-db445c04d676)
 
+## 3D perspectives for design solutions
+![image](https://github.com/user-attachments/assets/4e1319e7-442f-452f-a478-f0179f50258f)
+
    
 # writing paper (tatical project - info-graphic - printing)
 ### How many maps do we need? [[see more Essential Maps for a tactical project](https://www.youtube.com/watch?v=yVoZ_OrHsrs)]
@@ -37,12 +41,16 @@
       ![image](https://github.com/user-attachments/assets/2373d6ab-cf7c-413b-8cf4-932344480a33)
    4. Street furniture (HCMC data & sites - data)
       ![image](https://github.com/user-attachments/assets/9da5d7b5-4451-4383-b408-1f32f1ab2b77)
-   5. **???** Traffic count/ velocity map (HCMC camera / BK data - HCMC traffic data / Do survey again)
+      🚨 **Important:**
+   6. **???** Traffic count/ velocity map (HCMC camera / BK data - HCMC traffic data / Do survey again)
       ![image](https://github.com/user-attachments/assets/61f2f2b9-0678-4c77-a93a-b44bbda0d26c)
-
    7. **???** Pedestrian count (go site again)
       ![image](https://github.com/user-attachments/assets/61375bbe-d228-4681-8e3c-af82167289aa)
-**Final design map **
+   8. Activities map
+      ![image](https://github.com/user-attachments/assets/6106726f-f33e-4722-8628-10a39e92a4bd)
+      ![image](https://github.com/user-attachments/assets/df385248-67ce-432e-93ba-3b28abe15c6c)
+
+**Final design map**
 ![image](https://github.com/user-attachments/assets/06d4538f-c654-4d5a-a0ef-885efc40d302)
 # Tools
 QGIS
