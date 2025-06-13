@@ -4,7 +4,7 @@
 3. Instruction and MISC.: [[Gdrive_nghiencuuduongbo](https://drive.google.com/drive/folders/1V_Q3G7QA2Usi3KqPYQYe-7BT0d_npp6b?usp=drive_link)]  
 # **2 purposes: writing paper and interactive web-based**
 ## interactive web-based
-### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/]))
+### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/#19/10.78290/106.69574]))
 ### Layers
 (**???** Declare some notions: **blinds, dirty, invaded_sidewalk**) 
 - blinds
@@ -13,6 +13,9 @@
 - crosswalk
 - invaded_sidewalk
 - facade
+- merge_layer = buildings
+![image](https://github.com/user-attachments/assets/dbf4243b-03e9-44bc-8b35-6231f4779cd1)
+
 ### Tooltips design (what will pop up when we click in the icon?)
 1. Name of the problems / objects / phenomenal 
 2. Discription of problem: maybe from the investigator's perspective or from interviewee (in-depth interview data)
@@ -20,6 +23,8 @@
 4. Time frame (the time it happens, ex. parking zone infront of cafe happens from opening-time, 9am - 10pm) (optional)
 5. Photo
 6. Rating of the frequency/seriousness (optional)
+![image](https://github.com/user-attachments/assets/53a3bdb7-d2fa-46cb-8f69-db445c04d676)
+
    
 # writing paper (tatical project - info-graphic - printing)
 ### How many maps do we need? [[see more Essential Maps for a tactical project](https://www.youtube.com/watch?v=yVoZ_OrHsrs)]
