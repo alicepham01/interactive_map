@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/4e1319e7-442f-452f-a478-f0179f50258f)
 
    
-# writing paper (tatical project - info-graphic - printing)
+# writing paper (tactical project - info-graphic - printing)
 ### How many maps do we need? [[see more Essential Maps for a tactical project](https://www.youtube.com/watch?v=yVoZ_OrHsrs)]
 ![image](https://github.com/user-attachments/assets/dd19f263-94cd-4518-8656-225a634f3a3a)
    1. Total width (HCMC data)
