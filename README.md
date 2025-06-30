@@ -50,6 +50,14 @@
       ![image](https://github.com/user-attachments/assets/6106726f-f33e-4722-8628-10a39e92a4bd)
       ![image](https://github.com/user-attachments/assets/df385248-67ce-432e-93ba-3b28abe15c6c)
 
+**Applied scenerior visualization**
+[[sample images](https://media.voog.com/0000/0036/2451/files/BeirutCommunityStreets_catalog_Venice2023.pdf)]
+![image](https://github.com/user-attachments/assets/2bbf5117-4056-4f37-a62a-82db9e8b5d6a)
+![image](https://github.com/user-attachments/assets/ce02c17e-1d44-4904-b813-e07fa357eca8)
+![image](https://github.com/user-attachments/assets/908f35c6-7b2b-4e9d-8e80-30ba78cc2929)
+
+
+
 **Final design map**
 ![image](https://github.com/user-attachments/assets/06d4538f-c654-4d5a-a0ef-885efc40d302)
 # Tools
