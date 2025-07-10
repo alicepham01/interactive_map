@@ -60,6 +60,34 @@
 
 **Final design map**
 ![image](https://github.com/user-attachments/assets/06d4538f-c654-4d5a-a0ef-885efc40d302)
+# Some suggestions
+
+### Instead cluster by group of solutions —> cluster by spatial aspect/type of solution
+
+I referenced to some tactical and find out some drawbacks: 
+
+- To much problem in a category  issue —> group by spatial, economic, social, communication scenarios —> S2.1; S2.2; S2.3  —> thus we can show on the map where is applied which scenario (see the picture below)  (Our proposal can be showed by a layer like that and easily to switch into visible/invisible)
+
+![image.png](attachment:39b71ba4-cc36-4de0-a657-f426fd67a581:image.png)
+[Case study](https://media.voog.com/0000/0036/2451/files/BeirutCommunityStreets_catalog_Venice2023.pdf)
+
+- After we create a proposal plan, we need to render our solution in the real site images like the picture below  —> more practical and easier to understand what are happening and will happen in the specific corner
+    - Note: have to retake photos, re-assess issues by frequency or acceptable level, among others
+        - example
+            
+            ![image.png](attachment:9699dc9e-cd8e-44ab-9b7e-14656cdc7dd2:image.png)
+            
+
+![image.png](attachment:14e75791-ed83-42d1-9901-47e3de8d94c2:image.png)
+
+![image.png](attachment:94fc30db-60cf-40ad-9fd6-becc9c251250:image.png)
+
+### Conclusion and recreate before send to Mr.Dinh the final map version
+
+- Theme: color of markdown, basedmap, icon of each solution group.
+- Add some pop-up info like:  introduce the study area, test walks paths, building block and amenities (school, parks, green space). Example: see the first 3 pages of this website
+
+https://senseable.mit.edu/desirable-streets/
 # Tools
 QGIS
 ```bibtex
