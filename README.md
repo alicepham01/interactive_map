@@ -1,7 +1,8 @@
 # Folders
 1. Brainstoming: [[Miro board](https://miro.com/app/board/uXjVM1asjxo=/)]
 2. Mapping data: [[Onedrive](https://miro.com/app/board/uXjVM1asjxo=/?moveToWidget=3458764624296515278&cot=14)]
-3. Instruction and MISC.: [[Gdrive_nghiencuuduongbo](https://drive.google.com/drive/folders/1V_Q3G7QA2Usi3KqPYQYe-7BT0d_npp6b?usp=drive_link)]  
+3. Instruction and MISC.: [[Gdrive_nghiencuuduongbo](https://drive.google.com/drive/folders/1V_Q3G7QA2Usi3KqPYQYe-7BT0d_npp6b?usp=drive_link)]
+4. 3D visualization: [Github](https://github.com/alicepham01/HCR-3D-Visualization?tab=readme-ov-file#readme)
 # **2 purposes: writing paper and interactive web-based**
 ## interactive web-based
 ### 1. interactive_map ([DEMO live](https://alicepham01.github.io/interactive_map/#19/10.78290/106.69574])) 
